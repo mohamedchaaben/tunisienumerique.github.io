@@ -1,0 +1,27 @@
+.tunisia {
+  color: red;
+}
+.text {
+  transform: translate(-10%,+150%);
+}
+ul{
+    display: inline-flex;
+}
+li {
+  display:inline-table;
+}
+.slogan {
+  font-family: "Rubik", sans-serif;
+  font-size: 250%;
+  text-align: left;
+  padding-bottom: 6%;
+}
+.quote{
+    font-family: "Rubik", sans-serif;
+    font-size: 150%;
+    text-align: left;
+}
+.auther{
+    font-size: 80%;
+    color: gray;
+}
